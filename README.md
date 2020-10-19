@@ -8,3 +8,4 @@ between these two options . claculator contains three options one is to calculat
 
 youtube videolink:https://youtu.be/uAuf-hWjbDA
 
+![WhatsApp Image 2020-10-19 at 1 32 17 PM](https://user-images.githubusercontent.com/60499545/96458801-fbff0a80-123e-11eb-840b-29c4c616ea56.jpeg)
