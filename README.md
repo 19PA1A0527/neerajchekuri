@@ -1,6 +1,6 @@
 # neerajchekuri
 
-objective:This chat bot is mainly to find nutritions of fruits
+objective:This chat bot is mainly to find the minerals in fruits
 
 Description:
 this chatbot we have mainly two features one is claculator and another is to print nutritions of listed fruit.At the beginning this chatbot welcomes the user warmly and kindly requests him to tell his name,after that is greets user with his name and gives him to options to enter one is calculator and another one is nutrition the user has to select one
