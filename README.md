@@ -1,4 +1,8 @@
 # neerajchekuri
+teammembers:
+1.Cham Babu(18pa1a05a5)
+2.Deepika(19pa1a0528)
+3.Ch.V.N.S.Raju(19pa1a0527)
 
 objective:This chat bot is mainly to find the minerals in fruits
 
